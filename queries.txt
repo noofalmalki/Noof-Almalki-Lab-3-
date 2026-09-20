@@ -1,0 +1,23 @@
+12 ?- mother(lama,noof).
+true.
+
+13 ?- mother(sara,omar).
+true.
+
+14 ?- father(ahmed,nawaf).
+true.
+
+15 ?- father(khalid,norah).
+true.
+
+16 ?- sister(noof,nawaf).
+true .
+
+17 ?- sister(norah,omar).
+true .
+
+18 ?- brother(nawaf,noof).
+true .
+
+19 ?- brother(omar,norah).
+true .
